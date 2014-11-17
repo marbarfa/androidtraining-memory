@@ -16,3 +16,5 @@ Tips:
 
 *Ayuda con carpa*:
 Estará manejando correctamente la cantidad de objetos la app?
+
+Escritura de prueba
